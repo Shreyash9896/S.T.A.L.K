@@ -19,42 +19,38 @@ The S.T.A.L.K. project is a proactive, AI-powered real-time leopard detection sy
 
 ## ✨ Key Features
 
-*
 **Real-Time Detection:** Utilizes the YOLOv5 object detection model for high-speed and accurate identification of leopards through a standard webcam feed.
 
 
-*
 **Automated SMS Alerts:** Integrates with the Twilio API to automatically send SMS alerts with location coordinates the moment a leopard is detected.
 
 
-*
 **Lightweight & Deployable:** Designed to run on standard hardware without requiring high-end surveillance infrastructure, making it scalable for field deployment in remote areas.
 
 
-*
 **Robust Dataset:** Trained on a unified dataset combining real leopard images from diverse environments and custom augmentations to ensure high performance.
 
 
 
 ## 🛠️ Technology Stack
 
-*
+
 **Machine Learning Model:** YOLOv5 (PyTorch framework)
 
 
-*
+
 **Dataset Management & Annotation:** Roboflow
 
 
-*
+
 **Model Training Environment:** Google Colab (GPU)
 
 
-*
+
 **Programming Languages & Libraries:** Python, OpenCV
 
 
-*
+
 **Alert Integration:** Twilio API
 
 
